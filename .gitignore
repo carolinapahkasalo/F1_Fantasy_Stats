@@ -1,0 +1,52 @@
+# Dependency directories
+node_modules/
+
+# Built output
+build/
+dist/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled output
+*.pnp.js
+*.pnp.cjs
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Testing
+/coverage/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+.pnp.js
+
+# Build cache
+.cache/
+.npm/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor specific files
+*.swp
+*~
