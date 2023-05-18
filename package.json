@@ -1,0 +1,7 @@
+{
+    "name": "f1-fantasy-stats",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "cd apps/web && npm start"
+    }
+  }
