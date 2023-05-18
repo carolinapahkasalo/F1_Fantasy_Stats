@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "github.copilot",
+        "esbenp.prettier-vscode",
+        "shardulm94.trailing-spaces",
+        "eamodio.gitlens"
+    ]
+}
